@@ -1,1 +1,1 @@
-this is the url sortener
+this is the url shortener
